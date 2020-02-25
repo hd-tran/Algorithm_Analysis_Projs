@@ -6,7 +6,7 @@ graph.cpp
 graph_algorithms.cpp
 barabasi_albert.cpp
 */
-#include "project3.h"
+#include "project_head.h"
 #include "node.h"
 #include "graph.h"
 //#include "graph.cpp"

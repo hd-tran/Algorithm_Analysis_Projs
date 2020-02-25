@@ -1,7 +1,7 @@
 #ifndef GRAPH_H
 #define GRAPH_H
 
-#include "project3.h"
+#include "project_head.h"
 #include "node.h"
 
 #include "randomGen.h"
