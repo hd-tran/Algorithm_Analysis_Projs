@@ -7,7 +7,7 @@
 #include <utility>
 #include <algorithm>
 
-#include "project1.h"
+#include "sort_heads.h"
 #include "bubble_sort.cpp"
 #include "insertion_sort.cpp"
 #include "spin_the_bottle_sort.cpp"

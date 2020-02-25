@@ -1,7 +1,7 @@
 #ifndef ANNEALING_SORT_CPP
 #define ANNEALING_SORT_CPP
 
-#include "project1.h"
+#include "sort_heads.h"
 #include "randomGen.cpp"
 
 int findMin(int first, int second)

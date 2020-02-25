@@ -1,3 +1,3 @@
-g++ main.cpp -o main
-g++ main2.cpp -o main2
+g++ main_random_shuffle.cpp -o random_shuffle
+g++ main_partial_sort.cpp -o partial_sorting
 exit 0

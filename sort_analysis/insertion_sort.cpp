@@ -1,7 +1,7 @@
 #ifndef INSERTION_SORT_CPP
 #define INSERTION_SORT_CPP
 
-#include "project1.h"
+#include "sort_heads.h"
 
 void insertion_sort(std::vector<int> & nums)
 {

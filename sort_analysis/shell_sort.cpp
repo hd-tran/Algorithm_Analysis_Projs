@@ -1,7 +1,7 @@
 #ifndef SHELL_SORT_CPP
 #define SHELL_SORT_CPP
 
-#include "project1.h"
+#include "sort_heads.h"
 
 void shell_sort(std::vector<int> & nums, const std::vector<int> & gaps)
 {

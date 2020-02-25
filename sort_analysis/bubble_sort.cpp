@@ -1,7 +1,7 @@
 #ifndef BUBBLE_SORT_CPP
 #define BUBBLE_SORT_CPP
 
-#include "project1.h"
+#include "sort_heads.h"
 
 void bubble_sort(std::vector<int> & nums)
 {
