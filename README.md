@@ -24,6 +24,8 @@ Network Algorithms:
 
   * Analyze: Barabasi-Albert Network Model
 
+  * Network Properties to Analyze:
+  
     - Network Diameter
 
     - Network Clustering
